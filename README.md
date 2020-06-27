@@ -26,6 +26,8 @@
 
 > toString() method for String Representation
 
+> Inheritance
+
 
 
 ### Local Variables
